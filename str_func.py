@@ -12,3 +12,5 @@ def first_upper(string: str) -> str:
     :return:
     """
     return string.title()
+
+# just a few bug fixes
